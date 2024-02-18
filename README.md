@@ -4,4 +4,6 @@
   <img width="320" height="267" src="https://github.com/m4deme1ns4ne/m4deme1ns4ne/blob/main/assets/music.gif">
 </p>
 
-[~~ НАЖМИ НА МЕНЯ ~~](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=EQoB6MQ7Wko">НАЖМИ НА МЕНЯ</a>
+</p>
