@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=EQoB6MQ7Wko" style="text-decoration: line-through; font-size: 20px;">НАЖМИ НА МЕНЯ</a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">НАЖМИ НА МЕНЯ</a>
 </p>
