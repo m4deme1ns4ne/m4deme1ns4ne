@@ -9,10 +9,6 @@
 
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://github.r2v.ch/codewars?user=m4deme1ns4ne&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark" />
-</div>
-
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
   <img src="https://leetcard.jacoblin.cool/mademem1nsane?theme=unicorn&font=Dokdo" />
 </div>
 
