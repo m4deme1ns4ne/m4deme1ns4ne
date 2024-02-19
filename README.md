@@ -7,11 +7,6 @@
 </p>
 
 
-
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://leetcard.jacoblin.cool/mademem1nsane?theme=unicorn&font=Dokdo" />
-</div>
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">!!! CHAT GPT 69 ONLINE !!!
 </p>
