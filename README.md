@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/m4demeinsane">TELEGRAM</a>
+  <a href="https://t.me/m4demeinsane">MESSAGE ME ON TELEGRAM</a>
 </p>
 
 
