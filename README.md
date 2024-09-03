@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">!!! CHAT GPT 69 ONLINE !!!
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">!!! CHAT GPT 69 FRE !!!
 </p>
 
 <p align="center">
